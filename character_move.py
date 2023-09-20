@@ -39,7 +39,7 @@ def run_rectangle():
         render_all(50, y)
         
 while True:
-    #run_circle()
+    run_circle()
     run_rectangle()
     break
 
