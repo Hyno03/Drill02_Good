@@ -27,7 +27,7 @@ def run_rectangle():
     #    render_all(x, 90)
 
     #top line
-    for x in range(750 , 50, -10):
+    for x in range(750 , 50 - 1, -10):
         render_all(x, 550)
 
 while True:
